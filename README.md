@@ -1,2 +1,2 @@
 # obsidian_hexo
-![[media/Pasted image 20231123010825.png]]
+![](media/Pasted%20image%2020231123011000.png)
