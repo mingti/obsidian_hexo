@@ -1,5 +1,6 @@
 {
   "showLineNumber": true,
   "autoPairBrackets": false,
-  "attachmentFolderPath": "/media"
+  "attachmentFolderPath": "/media",
+  "newLinkFormat": "absolute"
 }
