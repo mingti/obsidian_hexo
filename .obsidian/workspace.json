@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "14b29c1d6128e9ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "first hexo md.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test1.md",
+                "file": "first hexo md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test1.md",
+                "file": "first hexo md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test1.md"
+                "file": "first hexo md.md"
               }
             }
           },
@@ -155,15 +168,16 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "2175adbfcc0a61f4",
+  "active": "14b29c1d6128e9ec",
   "lastOpenFiles": [
+    "test1.md",
+    "first hexo md.md",
     "media/Pasted image 20231123011111.png",
     "README.md",
     "media/Pasted image 20231122000952.png",
     "media/Pasted image 20231123010459.png",
     "media/Pasted image 20231123010546.png",
     "media/Pasted image 20231123011000.png",
-    "test1.md",
     "media/Pasted image 20231123011054.png",
     "media/Pasted image 20231123010825.png",
     "media/Pasted image 20231122000734.png",
